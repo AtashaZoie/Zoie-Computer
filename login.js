@@ -11,7 +11,7 @@ if (inputuser.value == "Zoie") {
 
 if (inputpass.value == "1234"){
 
-location.href = "atasha.html";
+location.href = "main.html";
 
 } else { 
 alert ("Invalid Password");
